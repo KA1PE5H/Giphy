@@ -6,6 +6,13 @@ body {
       font-family: 'Brush Script MT', cursive;
       text-align: center;
   }
+  hr{
+    color:aliceblue;
+  }
+  .form-inline{
+    justify-content: center;
+    display: flex;
+  }
   .gifs {
     margin: 0 auto;
     width: 80%;
