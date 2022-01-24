@@ -1,11 +1,9 @@
-So raising the level a little bit now I learnt to make API calls in React, and for this the best idea was to make calls of GIFs. In order to achieve this I first created an API key from Giphy Developrs website. Then I called the API using the key and called the trending API to display top 50 GIFs to the webpage. I will add search components and paging components to it and also style the site a bit using CSS later. Till then you can try this project in your local machine using the instructions shown below :)
+So raising the level a little bit now I learnt to make API calls in React, and for this the best idea was to make calls of GIFs. In order to achieve this I first created an API key from Giphy Developrs website. Then I called the API using the key and called the trending API to display top 50 GIFs to the webpage(well two webpages actually). 
 
-<<<<<<< HEAD
-=======
+Now I've added pagination: where there are two pages with each page having 25 GIFs and there are total of two pages, next thing is something new that I learnt was error handling using try and catch keywords and with the help of timeout function the page will display an error message for 5 seconds if the Giphy API/site goes down, lastly I added a loading icon for those who have slow internet to see the loading atom icon while the page loads.
 
+You can try this project in your local machine using the instructions shown below :)
 
-
->>>>>>> a3854a3a8c7d734734549155c3ab780e154ef8e2
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
